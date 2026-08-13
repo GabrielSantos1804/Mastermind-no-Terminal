@@ -2,7 +2,6 @@
 
 ![Linguagem](https://img.shields.io/badge/linguagem-C-blue.svg)
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen.svg)
-![Licença](https://img.shields.io/badge/licença-MIT-lightgrey.svg)
 
 Implementação em **C** do clássico jogo de tabuleiro **Mastermind**, em que o jogador tenta descobrir uma combinação secreta de cores dentro de um número limitado de tentativas.
 
